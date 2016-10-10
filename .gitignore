@@ -1,0 +1,10 @@
+# Logs
+logs/
+*.log
+
+target/
+
+# intellij ignores
+.idea/
+*.iml
+
