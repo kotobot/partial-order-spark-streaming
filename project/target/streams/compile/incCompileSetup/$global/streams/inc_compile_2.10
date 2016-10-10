@@ -1,0 +1,114 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/vitaliik/src/partial-order-spark-streaming/project/target/scala-2.10/sbt-0.13/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+5 items
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> /home/vitaliik/src/partial-order-spark-streaming/project/target/scala-2.10/sbt-0.13/classes/Dependencies$.class
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> /home/vitaliik/src/partial-order-spark-streaming/project/target/scala-2.10/sbt-0.13/classes/Dependencies$kafka$.class
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> /home/vitaliik/src/partial-order-spark-streaming/project/target/scala-2.10/sbt-0.13/classes/Dependencies$logging$.class
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> /home/vitaliik/src/partial-order-spark-streaming/project/target/scala-2.10/sbt-0.13/classes/Dependencies$spark$.class
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> /home/vitaliik/src/partial-order-spark-streaming/project/target/scala-2.10/sbt-0.13/classes/Dependencies.class
+binary dependencies:
+3 items
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> /home/vitaliik/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.8.jar
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> /home/vitaliik/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.8.jar
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+5 items
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> Dependencies
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> Dependencies$
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> Dependencies$kafka$
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> Dependencies$logging$
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> Dependencies$spark$
+used names:
+21 items
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> %
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> %%
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> <init>
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> AnyRef
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> Dependencies
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> client
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> core
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> kafka
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> log4j
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> logging
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> package
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> sbt
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> scala
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> slf4j
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> slf4j_log4j12
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> spark
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> streaming
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> streamingKafka
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> toGroupID
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> typesafeConfig
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> version
+product stamps:
+5 items
+/home/vitaliik/src/partial-order-spark-streaming/project/target/scala-2.10/sbt-0.13/classes/Dependencies$.class -> lastModified(1476051094000)
+/home/vitaliik/src/partial-order-spark-streaming/project/target/scala-2.10/sbt-0.13/classes/Dependencies$kafka$.class -> lastModified(1476051094000)
+/home/vitaliik/src/partial-order-spark-streaming/project/target/scala-2.10/sbt-0.13/classes/Dependencies$logging$.class -> lastModified(1476051094000)
+/home/vitaliik/src/partial-order-spark-streaming/project/target/scala-2.10/sbt-0.13/classes/Dependencies$spark$.class -> lastModified(1476051094000)
+/home/vitaliik/src/partial-order-spark-streaming/project/target/scala-2.10/sbt-0.13/classes/Dependencies.class -> lastModified(1476051094000)
+source stamps:
+1 items
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> hash(be830470e90d5a9d3e0e0ffc831cbb83c1ffd6bf)
+binary stamps:
+3 items
+/home/vitaliik/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.8.jar -> lastModified(1429633064000)
+/home/vitaliik/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.8.jar -> lastModified(1429631014000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1470826640000)
+class names:
+3 items
+/home/vitaliik/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.8.jar -> sbt.ModuleID
+/home/vitaliik/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.8.jar -> sbt.package$
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDzolf0AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAIHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cC/9yxt0AAZub3RpZnlzcQB+AAyj3l6TdAAEd2FpdHNxAH4ADEnAvAp0AAdsb2dnaW5nc3EAfgAM98yW5nQADSRhc0luc3RhbmNlT2ZzcQB+AAygSAaPdAAJc3RyZWFtaW5nc3EAfgAMBgeD0HQABmVxdWFsc3NxAH4ADA8CU650AA50eXBlc2FmZUNvbmZpZ3NxAH4ADDIJKWJ0AAxhc0luc3RhbmNlT2ZzcQB+AAw07rZodAAFbG9nNGpzcQB+AAzLYAQUdAAMc3luY2hyb25pemVkc3EAfgAMnW1tVHQADERlcGVuZGVuY2llc3NxAH4ADOR7y+d0AA0kaXNJbnN0YW5jZU9mc3EAfgAMjdY2DHQACW5vdGlmeUFsbHNxAH4ADMEjK2V0AAxpc0luc3RhbmNlT2ZzcQB+AAxEdiv1dAAHdmVyc2lvbnNxAH4ADAZ/Ojh0AAVrYWZrYXNxAH4ADHqNnph0AAVzcGFya3NxAH4ADG4UhSd0AAI9PXNxAH4ADPlQuFB0AAVjbG9uZXNxAH4ADPPIZk10AAZjbGllbnRzcQB+AAwxK5U9dAAIdG9TdHJpbmdzcQB+AAwB0O5rdAACIT1zcQB+AAwTOMePdAAIZ2V0Q2xhc3NzcQB+AAzOl4KydAAOc3RyZWFtaW5nS2Fma2FzcQB+AAx9xUksdAAEY29yZXNxAH4ADH3EhNt0AAVzbGY0anNxAH4ADCU/zER0AAJuZXNxAH4ADAb0aid0AAJlcXNxAH4ADO7cIcJ0AA1zbGY0al9sb2c0ajEyc3EAfgAMvFMV3HQAAiMjc3EAfgAMvaiC0XQACGZpbmFsaXplc3EAfgAMFYVKmHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AV3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAjdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Ab3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AbgBwc3EAfgBzc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFdMAAlpbmhlcml0ZWRxAH4AV0wAB3BhcmVudHNxAH4AV3hxAH4Ad3NxAH4AbgBwc3EAfgBzdXEAfgBSAAAAAHNxAH4AbgBwc3EAfgBzdXEAfgBSAAAAAHNxAH4AbgBwc3EAfgBzdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB2dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB2c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCTdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCUc3EAfgCHdAADQW55c3EAfgCLc3EAfgCOdXEAfgCRAAAAAnNxAH4Ak3QABXNjYWxhcQB+AJp1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV6uAQ8l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABbL2hvbWUvdml0YWxpaWsvc3JjL3BhcnRpYWwtb3JkZXItc3Bhcmstc3RyZWFtaW5nL3Byb2plY3QvdGFyZ2V0L3NjYWxhLTIuMTAvc2J0LTAuMTMvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFL6DBHDpDVqdPg4P/IMcu4PB/9a/
+external apis:
+0 items
+source infos:
+1 items
+/home/vitaliik/src/partial-order-spark-streaming/project/Dependencies.scala -> 
+AAAAAAAAAAA=
+compilations:
+4 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV6srTB11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWy9ob21lL3ZpdGFsaWlrL3NyYy9wYXJ0aWFsLW9yZGVyLXNwYXJrLXN0cmVhbWluZy9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV6tCsOV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWy9ob21lL3ZpdGFsaWlrL3NyYy9wYXJ0aWFsLW9yZGVyLXNwYXJrLXN0cmVhbWluZy9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV6tEU4R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWy9ob21lL3ZpdGFsaWlrL3NyYy9wYXJ0aWFsLW9yZGVyLXNwYXJrLXN0cmVhbWluZy9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEv
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV6uAQ8l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWy9ob21lL3ZpdGFsaWlrL3NyYy9wYXJ0aWFsLW9yZGVyLXNwYXJrLXN0cmVhbWluZy9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEv
